@@ -90,7 +90,7 @@ async function init() {
   
   
   catch (error) {
-    console.log(error);
+    console.log (error);
     init();
   }
 }
